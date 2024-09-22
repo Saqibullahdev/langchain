@@ -32,7 +32,7 @@ index = index_creator.from_loaders([text])
 
 # Setting the title of the web app
 st.title("HotelRagApp")
-st.subheader("Welcome to the HotelRagApp Built with Langchain 🦜 + Gemini")
+st.subheader("Welcome to the HotelRagApp Built with Langchain 🦜 + Google Gemini")
 
 # Input field for user question
 HumanQuestion = st.text_input("Ask a question related to the hotel")

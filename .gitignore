@@ -1,2 +1,7 @@
 .venv/
-Gemini/.env
+/Gemini/.env
+/HotelRagApp_Gemini/.env
+/MeomryInLanguage/.env
+/MeomryInLanguage/PART2/.env
+/agentsInLangchain/.env
+/AzureAi/.env
